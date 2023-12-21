@@ -1,25 +1,16 @@
----
-output: github_document
----
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "man/figures/README-",
-  out.width = "100%"
-)
-```
+# Immoswiss Package
 
-# Project-Group-B 
+<!-- badges: start -->
 
-## Overview 🇨🇭
+
+# Overview 🇨🇭
 
 `immoswiss` is designed for estimating property prices in Lausanne using a Multiple Linear Regression model and K-Nearest Neighbors to find the most similar properties on the market 🏠. Additionally, the package allows users to visualize the effect of each criterion on the estimated price.
 
-## Methodology 
+# Methodology 
 
 The package includes three functions : 
 
@@ -28,7 +19,6 @@ The package includes three functions :
     - 🏠 square meters
     - 📍 location (Postal code)
 using a multiple linear regression model. The model, built on webscrapped data from Lausanne, treats location as a categorical variable, with zip code 1004 serving as the reference level.The function uses this model to estimate prices for the specified input values, considering the unique impact of each variable. 
-This is an example :
 
 2. `nearest_neighbor`🏠 function identifies the k nearest neighbors in a dataset based on : the number of rooms (nb_rooms), the number of square meters (meter_square), and the location (location). This function is useful for finding similar properties in terms of rooms, square meters, and location, aiding in property comparison and recommendation.
 
@@ -47,16 +37,16 @@ The table then displays the K properties from the dataset that are most similar 
 
 The data comes from the immoscout website. We have scraped the data from Lausanne properties and stored it in the `lausanne` dataset. The `lausanne` dataset is included in our package and is the dataset that should be used by users.
 
-## Installation
+# Installation
 
 You can install immoswiss from GitHub using the devtools package. If you don't have devtools installed, you can install it by running:
 
 ```r
 install.packages("devtools")
-devtools::install_github("Ourpath/")
+devtools::install_github("ptds2023/Project-Group-B/immoswiss")
 ```
 
-## Usage of the package
+# Usage of the package
 
 These are simple example that demonstrates how to use the functions of our package. Keep in mind that the main goal is to use those functions in the shiny app.
 
@@ -72,4 +62,3 @@ launch_shiny_app()
 
 ```
 The 4th argument `lausanne` is the name of the dataset that is already loaded in the package.
-
