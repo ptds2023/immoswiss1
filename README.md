@@ -4,6 +4,8 @@
 # Immoswiss Package
 
 <!-- badges: start -->
+  [![R-CMD-check](https://github.com/ptds2023/immoswiss1/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ptds2023/immoswiss1/actions/workflows/R-CMD-check.yaml)
+  <!-- badges: end -->
 
 ![Lausanne](https://static.nationalgeographic.co.uk/files/styles/image_3200/public/ngts_web_st_insideguide_lausanne_14_hr.jpg?w=1600&h=900)
 
