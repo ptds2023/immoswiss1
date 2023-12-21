@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 <!-- badges: start -->
-  [![R-CMD-check](https://github.com/ptds2023/immoswiss1/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ptds2023/immoswiss1/actions/workflows/R-CMD-check.yaml)
+  [![R-CMD-check](https://github.com/ptds2023/immoswiss1/actions/workflows/main.yml/badge.svg)](https://github.com/ptds2023/immoswiss1/actions/workflows/main.yml)
   <!-- badges: end -->
 
 # Project-Group-B 
