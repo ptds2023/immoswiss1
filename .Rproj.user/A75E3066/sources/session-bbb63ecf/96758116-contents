@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 <!-- badges: start -->
-  [![R-CMD-check](https://github.com/ptds2023/immoswiss1/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ptds2023/immoswiss1/actions/workflows/R-CMD-check.yaml)
+  [![R-CMD-check](https://github.com/ptds2023/immoswiss1/actions/workflows/main.yml/badge.svg)](https://github.com/ptds2023/immoswiss1/actions/workflows/main.yml)
   <!-- badges: end -->
 
 # Project-Group-B 
@@ -76,5 +76,5 @@ estimate_price(2, 100, 1000, lausanne)
 launch_shiny_app()
 
 ```
-The 4th argument `lausanne` is the name of the dataset that is already loaded in the package.
+The 4th argument `lausanne` is the name of the dataset that is already loaded in the package. Laala
 

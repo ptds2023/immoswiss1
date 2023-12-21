@@ -4,7 +4,7 @@
 # Immoswiss Package
 
 <!-- badges: start -->
-  [![R-CMD-check](https://github.com/ptds2023/immoswiss1/actions/workflows/main.yaml/badge.svg)](https://github.com/ptds2023/immoswiss1/actions/workflows/main.yaml)
+  [![R-CMD-check](https://github.com/ptds2023/immoswiss1/actions/workflows/main.yml/badge.svg)](https://github.com/ptds2023/immoswiss1/actions/workflows/main.yml)
   <!-- badges: end -->
 
 ![Lausanne](https://static.nationalgeographic.co.uk/files/styles/image_3200/public/ngts_web_st_insideguide_lausanne_14_hr.jpg?w=1600&h=900)
@@ -68,4 +68,4 @@ The 4th argument `lausanne` is the name of the dataset that is already loaded in
 
 # Website 
 
-Visit our [package website](https://ptds2023.github.io/immoswiss1/) for more information. LALA
+Visit our [package website](https://ptds2023.github.io/immoswiss1/) for more information.

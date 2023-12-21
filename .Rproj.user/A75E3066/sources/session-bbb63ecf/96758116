@@ -3,24 +3,24 @@
     "path": "~/Documents/GitHub/immoswiss1/README.Rmd",
     "project_path": "README.Rmd",
     "type": "r_markdown",
-    "hash": "3048966382",
+    "hash": "0",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1703123303758.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "78,93",
-        "scrollLine": "64"
+        "cursorPosition": "60,33",
+        "scrollLine": "57"
     },
     "folds": "",
-    "lastKnownWriteTime": 1703123315,
+    "lastKnownWriteTime": 1703123550,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1703123362180,
+    "last_content_update": 1703123550,
     "read_only": false,
     "read_only_alternatives": []
 }

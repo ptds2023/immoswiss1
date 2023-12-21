@@ -68,4 +68,4 @@ The 4th argument `lausanne` is the name of the dataset that is already loaded in
 
 # Website 
 
-Visit our [package website](https://ptds2023.github.io/immoswiss1/) for more information. LALA
+Visit our [package website](https://ptds2023.github.io/immoswiss1/) for more information.
