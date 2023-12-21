@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+![Lausanne](https://static.nationalgeographic.co.uk/files/styles/image_3200/public/ngts_web_st_insideguide_lausanne_14_hr.jpg?w=1600&h=900)
 
 # Overview 🇨🇭
 
