@@ -1,24 +1,30 @@
 {
-    "id": "6C7C6CBA",
+    "id": "47139C7F",
     "path": "~/Documents/GitHub/immoswiss1/README.md",
     "project_path": "README.md",
     "type": "markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1703120157119.0,
+    "created": 1703123291493.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "70,94",
+        "scrollLine": "54",
+        "rmdVisualMode": "false",
+        "rmdVisualModeLocation": "233:0",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1703116415,
+    "lastKnownWriteTime": 1703123415,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1703116415,
+    "last_content_update": 1703123415026,
     "read_only": false,
     "read_only_alternatives": []
 }
