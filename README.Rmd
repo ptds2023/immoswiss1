@@ -15,6 +15,8 @@ knitr::opts_chunk$set(
 
 # Project-Group-B 
 
+![Lausanne](https://static.nationalgeographic.co.uk/files/styles/image_3200/public/ngts_web_st_insideguide_lausanne_14_hr.jpg?w=1600&h=900)
+
 ## Overview 🇨🇭
 
 `immoswiss` is designed for estimating property prices in Lausanne using a Multiple Linear Regression model and K-Nearest Neighbors to find the most similar properties on the market 🏠. Additionally, the package allows users to visualize the effect of each criterion on the estimated price.
